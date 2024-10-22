@@ -21,6 +21,7 @@ public class EvidenceChatekApp implements Runnable{
     public static void main(String[] args) {
         EvidenceChatekApp evidenceChatekApp = new EvidenceChatekApp();
         evidenceChatekApp.run();
+
     }
 
 
